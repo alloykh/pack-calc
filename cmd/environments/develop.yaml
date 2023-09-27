@@ -1,0 +1,6 @@
+server:
+  port: 4000
+  health_check_port: 4001
+
+log:
+  verbosity: trace

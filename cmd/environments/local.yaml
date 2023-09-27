@@ -1,0 +1,13 @@
+server:
+  port: 4001
+  health_check_port: 4002
+
+log:
+  verbosity: trace
+
+packs:
+  - 250
+  - 500
+  - 1000
+  - 2000
+  - 5000

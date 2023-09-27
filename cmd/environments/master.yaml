@@ -1,0 +1,7 @@
+server:
+  port: 4002
+  health_check_port: 4003
+
+
+log:
+  verbosity: error
